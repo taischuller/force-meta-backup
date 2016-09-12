@@ -257,7 +257,6 @@ class BulkMetadataManifestBuilder {
         'CustomApplicationComponent',
         'CustomFeedFilter',
         'CustomLabels',
-        'CustomMetadata',
         'CustomPageWebLink',
         'CustomSite',
         'DataCategoryGroup',
